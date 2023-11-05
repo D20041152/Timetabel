@@ -1,2 +1,2 @@
 # Timetabel
-скидывает расписание, которое занесено в Excel
+Throws off the schedule that is entered in Excel
